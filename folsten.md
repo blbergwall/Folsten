@@ -1,6 +1,7 @@
 # Folsten Region
 
-Folsten is a region to host D&D 5E role playing scenarios in.
+Folsten is a region to host D&D 5E role playing scenarios in.  This document and the accompanying
+[map](folsten.jpg) provide high level setting information for adventures.
 
 ## Base Setting
 
@@ -11,7 +12,7 @@ Forgotten realms Pantheon of Deities.
 
 ## Civilization
 
-The current civilization in Folsten is relatively new.  About 200 years ago several ships landed
+The current civilization in Folsten is relatively new.  About 250 years ago several ships arrived
 about where the current, aptly named, city First Landing is located. The region gets its name from
 the captain of that expedition Gibard Folsten.  After some significant hardship these new
 settlers turned First Landing into a safe and prosperous town.  More settlers arrived over the
